@@ -1,0 +1,26 @@
+{
+  "name": "apitest",
+  "version": "1.0.0",
+  "description": "Simple API Tester",
+  "main": "main.js",
+  "dependencies": {
+    "fs-extra-promise": "^1.0.1",
+    "superagent": "^3.8.3"
+  },
+  "devDependencies": {
+    "eslint": "^5.3.0"
+  },
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elevow/apitest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elevow/apitest/issues"
+  },
+  "homepage": "https://github.com/elevow/apitest#readme"
+}

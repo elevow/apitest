@@ -1,0 +1,16 @@
+{
+    "url": "http://worldclockapi.com/api/json/est/now",
+    "query": {},
+    "ignore": {},
+    "baseline": {
+        "$id": "1",
+        "currentDateTime": "2018-08-16T23:07-04:00",
+        "utcOffset": "-04:00:00",
+        "isDayLightSavingsTime": true,
+        "dayOfTheWeek": "Thursday",
+        "timeZoneName": "Eastern Standard Time",
+        "currentFileTime": 131789344522279588,
+        "ordinalDate": "2018-228",
+        "serviceResponse": null
+    }
+}
